@@ -1,0 +1,15 @@
+<keymap version="1" name="MyKeymap" parent="Eclipse">
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorDuplicateLines" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>
